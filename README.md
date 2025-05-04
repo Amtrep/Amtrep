@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML & CSS
 - 💞️ I’m looking to collaborate on your works and try to learn. Just pay with your knowledge
 - 📫 How to reach me, through this account
-- 😄 Pronouns: He/HIm
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I always dream to make my own techs and website.
 
 <!---
